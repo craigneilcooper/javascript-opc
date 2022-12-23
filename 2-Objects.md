@@ -55,8 +55,11 @@
 - Key in the Equality operator is comparing a object vs primitive value types
 - Objects will be compared to the value in memory
 - Variable declarations or primitive value types the value will be compared in the equality operator.
+![9-2](https://user-images.githubusercontent.com/102772112/209391465-d619066b-dd79-48dc-94ab-92db52704367.png)
+![9-2-1](https://user-images.githubusercontent.com/102772112/209391475-ea75e30b-8cc2-4f1c-bcb1-123bfca163b5.png)
 
 ## 10 - Object Assign & Immutability
+![10-Object-Assign-immu](https://user-images.githubusercontent.com/102772112/209391482-4f46f0f5-14f7-4d85-905d-fe2f20dafe17.png)
 
 Example 1
 
@@ -109,3 +112,11 @@ Example 2 - With a function merge
       display(mergedPerson); 
 
     })();
+    
+    ## Ext![FunctionVSObject_portoype](https://user-images.githubusercontent.com/102772112/209391662-a820d62b-4795-488a-965c-c53da701bfe6.png)
+ras
+    ![objectLiteral-shorthand](https://user-images.githubusercontent.com/102772112/209391622-e1969692-0c36-4482-8bb5-8a8c83593525.png)
+![ObjectLiteralMethodDeclaration](https://user-images.githubusercontent.com/102772112/209391613-8351c190-16b5-43d2-a2eb-a84aee24e1a7.png)
+![addingFunctionsToObjects](https://user-images.githubusercontent.com/102772112/209391623-2ed947a1-4837-43ca-bc37-8ee81a6a8330.png)
+
+    
